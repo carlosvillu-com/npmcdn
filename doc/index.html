@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <script src="https://npmcdn.com/cvpokeapi@0.2.2/umd/cvpokeapi.umd.js"></script>
+  </head>
+  <body>
+    <script>
+      var client = new CVPokeapi.default()
+      client
+        .pokemon({id:1})
+        .then(console.log.bind(console))
+    </script>
+  </body>
+</html>
