@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carlosvillu-com/npmcdn.git"
+    "url": "git+https://github.com/carlosvillu-com/unpkg.git"
   },
   "keywords": [],
   "author": "Carlos Villuendas <carlosvillu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/carlosvillu-com/npmcdn/issues"
+    "url": "https://github.com/carlosvillu-com/unpkg/issues"
   },
-  "homepage": "https://github.com/carlosvillu-com/npmcdn#readme",
+  "homepage": "https://github.com/carlosvillu-com/unpkg#readme",
   "dependencies": {
     "axios": "0.9.1"
   },
